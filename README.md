@@ -2,6 +2,12 @@
 
 智能客服系统的 Web 访客端(H5),可嵌入业务网站或独立打开。访客进入后自动分配 AI 客服接待,支持随时转人工、满意度评分。
 
+## 相关仓库
+
+- 服务端(Spring Boot):[easemob-customer-service](https://github.com/Easemob-Community/easemob-customer-service)
+- 管理控制台:[easemob-customer-console](https://github.com/Easemob-Community/easemob-customer-console)
+- 移动端(Flutter,iOS/Android):[easemob-customer-app](https://github.com/Easemob-Community/easemob-customer-app)
+
 ## 技术栈
 
 Vue 3 + Vite + TypeScript · Pinia · Axios · 环信 Web SDK(easemob-websdk,消息长连接)
